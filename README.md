@@ -1,5 +1,4 @@
-# Intelligent System EVEN 2021 Resources
-____
+# Intelligent System Resources
 
 ## About
 
