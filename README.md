@@ -4,6 +4,8 @@
 
 A repository where I compile all my teaching materials for Intelligent Systems. Also some resources i found interesting throughout teaching the class. There will be articles, code, TL;DR, all will be put in this repository Issues. Inspired by [machine learning articles](https://github.com/khuyentran1401/machine-learning-articles)
 
+This branch is for contribution guidelines only, if you're here and try to search for the code that I've created during the class go to this [master branch](https://github.com/arjasa1103/IntelligentSystemResources/tree/master)
+
 ### Why you should to contribute
 
 Keeping tracks of all your data science and course material is hard, and with this repository I hope that problem can be solved. There are also multiple benefits:
